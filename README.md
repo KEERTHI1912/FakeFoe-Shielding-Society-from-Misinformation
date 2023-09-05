@@ -1,4 +1,4 @@
-##### Project Status: Completed.
+
 # Project Title: Fake News Detection Systsem.
 
 ## Project Description.

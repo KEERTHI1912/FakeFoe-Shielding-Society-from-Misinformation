@@ -27,6 +27,3 @@
 - Pandas (Python)
 - Visual Studio Code (IDE)
 
-## Demo of System
-
-https://user-images.githubusercontent.com/78413685/211159873-7cfb4e48-b94d-4de7-a90b-beb528d9d064.mp4
